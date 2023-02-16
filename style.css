@@ -19,10 +19,30 @@
   font-weight: 700;
   font-size: 18px;
   line-height: 20px;
-
+ 
 }
 
 .navbar {
   display: flex;
   justify-content: space-between;
+}
+
+.header2 {
+  color: #172B4D;
+  font-family: Poppins;
+  font-weight: 700;
+}
+
+.about-me-paragraph{
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+margin-top: 12px;
+color: #344563;
+}
+
+.connect {
+  margin-top: 14px;
+  margin-bottom: 12px;
 }
