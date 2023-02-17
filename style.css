@@ -5,8 +5,8 @@
 }
 
 .header {
-  display:flex;
-  align-items:center;
+  display: flex;
+  align-items: center;
 }
 
 .navbar {
@@ -14,7 +14,7 @@
   position: absolute;
   text-align: center;
   align-items: center;
- }
+}
 
 .my-logo {
   width: 76px;
@@ -45,7 +45,7 @@
   font-weight: 700;
   font-size: 40px;
   line-height: 52px;
-  color: #172B4d;
+  color: #172b4d;
   margin-left: 24px;
   margin-right: 24px;
   margin-top: 206px;
@@ -71,7 +71,7 @@
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
-  color: #7F8cff;
+  color: #7f8cff;
 }
 
 .media-links {
@@ -82,6 +82,5 @@
 }
 
 .media-links li {
-  margin-left: 24px;  
-}
- 
+  margin-left: 24px;
+} 
